@@ -136,6 +136,10 @@ Generates a full-memory minidump of a process.
 
 Records audio from system microphone and saves to disk
 
+#### 'Get-InjectedThread'
+
+Hunting in Memory
+
 ## Mayhem
 
 **Cause general mayhem with PowerShell.**
