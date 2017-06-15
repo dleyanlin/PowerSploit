@@ -101,6 +101,7 @@ FunctionsToExport = @(
     'Get-VolumeShadowCopy',
     'Get-Webconfig',
     'Install-ServiceBinary',
+    'Get-InjectedThread',
     'Install-SSP',
     'Invoke-ACLScanner',
     'Invoke-AllChecks',
